@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  DSSNetwork
+
+  Created by David on 07/01/21.
+  Copyright © 2021 DS_Systems. All rights reserved.
+*/
+"LOCAL:Failed to transform element into Data" = "Failed to transform element into Data";
+"LOCAL:File not found" = "File not found";
+"LOCAL:ServerReturnedAnInvalidStatusCode" = "The server returned and invalid status code";
+"LOCAL:InvalidData" = "Invalid data (Data)";
+"LOCAL:NoProductsFound." = "No products found";
+"LOCAL:Failed to unwrap variable" = "Failed to unwrap variable";
+"LOCAL:Failed to cast variable" = "Failed to cast variable";
+"LOCAL:InvalidResponse." = "Invalid response";
+"LOCAL:Unknown" = "Unknown";
